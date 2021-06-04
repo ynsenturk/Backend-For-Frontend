@@ -1,0 +1,17 @@
+C:\Users\Dell\OneDrive\Masaüstü\QLTEQ\Learning\Microservices\Services\ContactAPI\Contact.API.Services\bin\Debug\net5.0\Contact.API.Services.deps.json
+C:\Users\Dell\OneDrive\Masaüstü\QLTEQ\Learning\Microservices\Services\ContactAPI\Contact.API.Services\bin\Debug\net5.0\Contact.API.Services.dll
+C:\Users\Dell\OneDrive\Masaüstü\QLTEQ\Learning\Microservices\Services\ContactAPI\Contact.API.Services\bin\Debug\net5.0\ref\Contact.API.Services.dll
+C:\Users\Dell\OneDrive\Masaüstü\QLTEQ\Learning\Microservices\Services\ContactAPI\Contact.API.Services\bin\Debug\net5.0\Contact.API.Services.pdb
+C:\Users\Dell\OneDrive\Masaüstü\QLTEQ\Learning\Microservices\Services\ContactAPI\Contact.API.Services\bin\Debug\net5.0\Contact.API.Infrastructure.dll
+C:\Users\Dell\OneDrive\Masaüstü\QLTEQ\Learning\Microservices\Services\ContactAPI\Contact.API.Services\bin\Debug\net5.0\Contact.API.Models.dll
+C:\Users\Dell\OneDrive\Masaüstü\QLTEQ\Learning\Microservices\Services\ContactAPI\Contact.API.Services\bin\Debug\net5.0\Contact.API.Infrastructure.pdb
+C:\Users\Dell\OneDrive\Masaüstü\QLTEQ\Learning\Microservices\Services\ContactAPI\Contact.API.Services\bin\Debug\net5.0\Contact.API.Models.pdb
+C:\Users\Dell\OneDrive\Masaüstü\QLTEQ\Learning\Microservices\Services\ContactAPI\Contact.API.Services\obj\Debug\net5.0\Contact.API.Services.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Masaüstü\QLTEQ\Learning\Microservices\Services\ContactAPI\Contact.API.Services\obj\Debug\net5.0\Contact.API.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Masaüstü\QLTEQ\Learning\Microservices\Services\ContactAPI\Contact.API.Services\obj\Debug\net5.0\Contact.API.Services.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Masaüstü\QLTEQ\Learning\Microservices\Services\ContactAPI\Contact.API.Services\obj\Debug\net5.0\Contact.API.Services.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Masaüstü\QLTEQ\Learning\Microservices\Services\ContactAPI\Contact.API.Services\obj\Debug\net5.0\Contact.API.Services.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Masaüstü\QLTEQ\Learning\Microservices\Services\ContactAPI\Contact.API.Services\obj\Debug\net5.0\Contact.API.Services.csproj.CopyComplete
+C:\Users\Dell\OneDrive\Masaüstü\QLTEQ\Learning\Microservices\Services\ContactAPI\Contact.API.Services\obj\Debug\net5.0\Contact.API.Services.dll
+C:\Users\Dell\OneDrive\Masaüstü\QLTEQ\Learning\Microservices\Services\ContactAPI\Contact.API.Services\obj\Debug\net5.0\ref\Contact.API.Services.dll
+C:\Users\Dell\OneDrive\Masaüstü\QLTEQ\Learning\Microservices\Services\ContactAPI\Contact.API.Services\obj\Debug\net5.0\Contact.API.Services.pdb

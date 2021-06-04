@@ -1,0 +1,12 @@
+C:\Users\Dell\OneDrive\Masaüstü\QLTEQ\Learning\Microservices\Services\ResAPI\Reservation.API.Models\bin\Debug\net5.0\Reservation.API.Models.deps.json
+C:\Users\Dell\OneDrive\Masaüstü\QLTEQ\Learning\Microservices\Services\ResAPI\Reservation.API.Models\bin\Debug\net5.0\Reservation.API.Models.dll
+C:\Users\Dell\OneDrive\Masaüstü\QLTEQ\Learning\Microservices\Services\ResAPI\Reservation.API.Models\bin\Debug\net5.0\ref\Reservation.API.Models.dll
+C:\Users\Dell\OneDrive\Masaüstü\QLTEQ\Learning\Microservices\Services\ResAPI\Reservation.API.Models\bin\Debug\net5.0\Reservation.API.Models.pdb
+C:\Users\Dell\OneDrive\Masaüstü\QLTEQ\Learning\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net5.0\Reservation.API.Models.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Masaüstü\QLTEQ\Learning\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net5.0\Reservation.API.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Masaüstü\QLTEQ\Learning\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net5.0\Reservation.API.Models.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Masaüstü\QLTEQ\Learning\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net5.0\Reservation.API.Models.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Masaüstü\QLTEQ\Learning\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net5.0\Reservation.API.Models.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Masaüstü\QLTEQ\Learning\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net5.0\Reservation.API.Models.dll
+C:\Users\Dell\OneDrive\Masaüstü\QLTEQ\Learning\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net5.0\ref\Reservation.API.Models.dll
+C:\Users\Dell\OneDrive\Masaüstü\QLTEQ\Learning\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net5.0\Reservation.API.Models.pdb
